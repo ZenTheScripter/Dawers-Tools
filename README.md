@@ -1,2 +1,2 @@
 # Dawers-Tools
-This multi-tool inspired by RedTiger but coded by DarkFadow ! 
+This is a powerful multi-tool open source for you to check the code but under licence ! SO DON'T copy and pretend it's yours because it is not !
